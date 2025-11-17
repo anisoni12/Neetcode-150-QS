@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0228-summary-ranges](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0228-summary-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
