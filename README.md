@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
