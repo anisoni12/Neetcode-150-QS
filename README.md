@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
