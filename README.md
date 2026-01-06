@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
