@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0228-summary-ranges) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
