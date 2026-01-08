@@ -42,12 +42,14 @@
 | [0008-string-to-integer-atoi](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +89,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
