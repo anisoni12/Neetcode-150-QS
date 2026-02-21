@@ -54,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -104,4 +105,16 @@
 | [0076-minimum-window-substring](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
