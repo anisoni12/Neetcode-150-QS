@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0860-lemonade-change) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
+| [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
