@@ -94,6 +94,7 @@
 | [0055-jump-game](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
