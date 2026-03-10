@@ -95,6 +95,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +133,5 @@
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
