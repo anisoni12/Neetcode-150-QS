@@ -134,4 +134,8 @@
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
