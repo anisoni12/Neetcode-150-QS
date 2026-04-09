@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0860-lemonade-change) |
@@ -57,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
