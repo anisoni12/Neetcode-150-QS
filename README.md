@@ -78,6 +78,7 @@
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -85,6 +86,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -126,11 +128,13 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
@@ -149,5 +153,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
