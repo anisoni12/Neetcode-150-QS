@@ -19,6 +19,7 @@
 | [0860-lemonade-change](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0860-lemonade-change) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0007-reverse-integer) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
 |  |
 | ------- |
