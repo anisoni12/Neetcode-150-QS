@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0228-summary-ranges) |
+| [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0860-lemonade-change) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0007-reverse-integer) |
+| [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
@@ -109,6 +111,7 @@
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
