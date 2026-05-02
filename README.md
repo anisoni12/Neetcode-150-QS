@@ -48,6 +48,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0007-reverse-integer) |
 | [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
@@ -112,6 +113,7 @@
 | [0055-jump-game](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0788-rotated-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
