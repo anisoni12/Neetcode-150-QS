@@ -60,6 +60,7 @@
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0796-rotate-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
@@ -171,4 +172,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0703-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
