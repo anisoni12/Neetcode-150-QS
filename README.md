@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0048-rotate-image) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3742-maximum-path-score-in-a-grid) |
