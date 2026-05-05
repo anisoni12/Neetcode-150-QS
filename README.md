@@ -90,6 +90,7 @@
 | [0011-container-with-most-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
@@ -143,6 +144,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0355-design-twitter) |
 ## Design
 |  |
