@@ -20,6 +20,7 @@
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0860-lemonade-change) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1861-rotating-the-box](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1861-rotating-the-box) |
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3225-maximum-score-from-grid-operations) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -96,6 +98,7 @@
 | [0295-find-median-from-data-stream](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
+| [1861-rotating-the-box](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
