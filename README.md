@@ -24,6 +24,7 @@
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3225-maximum-score-from-grid-operations) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -53,6 +54,7 @@
 | [0396-rotate-function](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anisoni12/Neetcode-150-QS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0567-permutation-in-string) |
 | [1980-find-unique-binary-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/1980-find-unique-binary-string) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
 | ------- |
@@ -184,4 +187,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anisoni12/Neetcode-150-QS/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anisoni12/Neetcode-150-QS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
